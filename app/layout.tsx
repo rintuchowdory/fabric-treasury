@@ -2,8 +2,8 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Fabric Treasury',
-  description: 'The liquidity layer for AI agents and global treasury',
+  title: 'Fabric — Treasury infrastructure for AI agents',
+  description: 'test',
 }
 
 export default function RootLayout({
